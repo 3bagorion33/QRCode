@@ -121,7 +121,6 @@
 			this.VideoCameraButton.TabIndex = 2;
 			this.VideoCameraButton.Text = "Video Camera";
 			this.VideoCameraButton.UseVisualStyleBackColor = true;
-			this.VideoCameraButton.Click += new System.EventHandler(this.OnVideoCamera);
 			// 
 			// GoToUrlButton
 			// 

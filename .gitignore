@@ -1,0 +1,11 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/QRCodeSource/QRCodeDecoder/.vs
+/QRCodeSource/QRCodeDecoder/QRCodeDecoderDemo/bin/Debug/net6.0-windows
+/QRCodeSource/QRCodeDecoder/QRCodeDecoderDemo/obj
+/QRCodeSource/QRCodeDecoder/QRCodeDecoderDemo/Work
+/QRCodeSource/QRCodeDecoder/QRCodeDecoderLibrary/bin/Debug/net6.0-windows
+/QRCodeSource/QRCodeDecoder/QRCodeDecoderLibrary/obj
+/.vs

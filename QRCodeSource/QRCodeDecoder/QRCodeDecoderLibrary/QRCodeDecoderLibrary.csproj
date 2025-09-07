@@ -7,4 +7,16 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Camera.cs" />
+    <Compile Remove="DirectShowLib.cs" />
+    <Compile Remove="SampleGrabberHelper.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Camera.cs" />
+    <None Include="DirectShowLib.cs" />
+    <None Include="SampleGrabberHelper.cs" />
+  </ItemGroup>
+
 </Project>
